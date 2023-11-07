@@ -65,5 +65,10 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .imagem {
-    width: 1000px;
+    width: 800px;
+}
+
+.apresentacao__links__link:hover {
+    background-color:#272727;;
+
 }
