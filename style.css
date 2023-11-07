@@ -43,9 +43,15 @@ body{
     align-items: center;
     gap: 32px;
 }
+.apresentacao__links__subtitulo{
+    font-family: 'krona One' , sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
 
 .apresentacao__links__link{
-    background-color: #22D4FD;
+    /* background-color: #22D4FD; */
     width: 280px;
     text-align: center;
     border-radius: 16px;
@@ -53,7 +59,7 @@ body{
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: #000000;
+    color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
 }
 .imagem{
