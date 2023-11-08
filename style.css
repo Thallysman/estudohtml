@@ -73,7 +73,8 @@ body{
 
 }
 .rodape {
-    margin: 25 ;
+    margin: 25px ;
     color: #000000;
     background-color: #22D4FD;
+    text-align: center;
 }
