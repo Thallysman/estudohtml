@@ -16,12 +16,34 @@ body{
     color: #22D4FD;
 }
 
-.apresentacao{
-    margin: 10% 15%;
+.cabecalho {
+    padding: 2% 0% 0% 8%;
+}
+
+.cabecalho__menu {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22D4FD;
+    display: flex;
+    gap: 80px;
+}
+
+
+.cabecalho__menu__link {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #22D4FD;
+}
+
+.apresentacao {
+    padding: 5% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
+
 .apresentacao__conteudo{
     width: 615px;
     display: flex;
